@@ -3,7 +3,7 @@ package main;
 public class Hajo {
     private int[] pozicio;
     
-    public String tesztLoves(int poz) {
+    public String talalat(int poz) {
         return "";
     }
 }
