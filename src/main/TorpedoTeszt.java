@@ -16,5 +16,6 @@ public class TorpedoTeszt {
     
     public String tesztLoves() {
         return "";
+        
     }
 }
